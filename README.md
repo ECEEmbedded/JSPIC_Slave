@@ -1,4 +1,4 @@
-JSPIC_Slave
-===========
+JSPIC
+=====
 
-UNOFFICIAL! 
+JSPIC
